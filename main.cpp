@@ -1,3 +1,5 @@
+// This is not industry-strength code! This is the result of a hack session.
+// Use this code at your own risk :)
 #define STRICT
 #include <windows.h>
 #include <windowsx.h>
