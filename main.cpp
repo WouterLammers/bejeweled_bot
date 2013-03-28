@@ -1,5 +1,7 @@
 // This is not industry-strength code! This is the result of a hack session.
 // Use this code at your own risk :)
+// This code depends on psapi.lib and shlwapi.lib. If your VS version does
+// not have these you might need to download the windows SDK
 #define STRICT
 #include <windows.h>
 #include <windowsx.h>
